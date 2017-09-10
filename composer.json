@@ -1,0 +1,7 @@
+{
+	"name": "clock-interop/clock-interop",
+	"type": "library",
+	"description": "An interoperable interface for date/time providers",
+	"homepage": "https://github.com/clock-interop/clock-interop",
+	"license": "MIT"
+}
