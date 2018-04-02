@@ -1,6 +1,6 @@
 # Clock Interoperability Project
 
-*clock_interop* project attempts to standardize an interface for date/time providers to achieve interoperability.
+*clock-interop* project attempts to standardize an interface for date/time providers to achieve interoperability.
 
 The project tries to settle on a consensual interface and recommendations through discussions and trials.
 
