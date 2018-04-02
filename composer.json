@@ -3,5 +3,13 @@
 	"type": "library",
 	"description": "An interoperable interface for date/time providers",
 	"homepage": "https://github.com/clock-interop/clock-interop",
-	"license": "MIT"
+	"license": "MIT",
+	"require": {
+		"php": ">= 7.0.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"Interop\\Clock\\": "src/"
+		}
+	}
 }
